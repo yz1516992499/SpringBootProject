@@ -1,0 +1,26 @@
+person:
+  name: zhangsan
+  boss: true
+  birth: 2000/11/11
+  age: 21
+  interests:
+    - music
+    - movie
+  animal: [dog,cat]
+  score: {english:60,math:90}
+  salary:
+    - 20000.99
+    - 29999.99
+  pet:
+    name: dog
+    weight: 99.99
+  allPets:
+    sick:
+      - {name: sickDog,weight: 99.99}
+      - name: sickCat
+        weight: 88.88
+      - name: sickFish
+        weight: 11.11
+    health:
+      - {name: dog,weight: 199.99}
+      - {name: cat,weight: 188.88}
